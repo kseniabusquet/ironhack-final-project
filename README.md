@@ -36,7 +36,7 @@ HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB
 ![Edit Post](./screenshots/edit-post.png)
 ![See Post Proposals](./screenshots/see-post-proposals.png)
 ![Proposal accepted](./screenshots/proposal-accepted.png)
-![Company Page](./screenshots/company-send-proposal.png)
+![Company Page](./screenshots/company-proposals-page.png)
 ![Send Proposal](./screenshots/company-send-proposal.png)
 ![Help Page](./screenshots/help-page.png)
 ![Error Page](./screenshots/error-page.png)
