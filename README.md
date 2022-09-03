@@ -10,10 +10,10 @@ The main objective of the IronTruck app is to help users who want to move to ano
 - [Tech Stack](#tech)
 - [Screenshots](#screenshots)
 - [Project Status](#project-status)
-- [Room for Improvement](#room-for-improvement)
 - [Project presentation](#project-presentation)
 - [About Us](#about-us)
 
+<a name="repos"></a>
 ## Repo Links
 
 Front-End: [Click here](https://github.com/Bru9is/irontruck-client)
@@ -22,10 +22,12 @@ Back-End: [Click here](https://github.com/Bru9is/irontruck-server)
 
 Deployed site: [Click here](https://irontruck.netlify.app)
 
+<a name="tech"></a>
 ## Tech Stack
 
 HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB
 
+<a name="screenshots"></a>
 ## Screenshots
 
 ![Homepage](./screenshots/homepage.png)
@@ -42,16 +44,19 @@ HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB
 ![Help Page](./screenshots/help-page.png)
 ![Error Page](./screenshots/error-page.png)
 
+<a name="project-status"></a>
 ## Project Status
 
 _finished_
 
+<a name="project-presentation"></a>
 ## Project Presentation
 
 The project was delivered on September, 2nd, 2022 in form of presentation to the Lead Teacher [Nilton de Freitas](https://github.com/oniltos) and Teacher Assistant [Felipe Osório](https://github.com/Briofita09).
 
 [Click here](https://www.canva.com/design/DAFE1KYLYmo/dDpO1ziTEOrpigZZsktJ8Q/edit?utm_content=DAFE1KYLYmo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to watch the project presentation!
 
+<a name="about-us"></a>
 ## 🚀 About Us
 
 - [Bruno Novis](https://www.github.com/bru9is) - engineer with more than 10 years of experience in the technology area. At the moment in career transition to Software Development.
