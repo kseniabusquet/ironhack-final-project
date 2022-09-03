@@ -32,6 +32,7 @@ HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB
 ![Signup Company](./screenshots/signup.png)
 ![Signup User](./screenshots/signup-user.png)
 ![Login](./screenshots/login.png)
+![Edit profile](./screenshots/edit-profile.png)
 ![User Page](./screenshots/user-page.png)
 ![Edit Post](./screenshots/edit-post.png)
 ![See Post Proposals](./screenshots/see-post-proposals.png)
